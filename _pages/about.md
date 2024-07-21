@@ -8,7 +8,7 @@ subtitle: AI Scientist, Data and Analytics
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
 #    <p>555 your office number</p>
 #    <p>123 your address street</p>
@@ -25,20 +25,14 @@ social: true # includes social icons at the bottom of the page
 
 [//]: # (Link to your social media connections, too. This theme is set up to use [Font Awesome icons]&#40;https://fontawesome.com/&#41; and [Academicons]&#40;https://jpswalsh.github.io/academicons/&#41;, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
 
-I am an accomplished AI Scientist and Data Science, BI & Analytics Manager specializing in artificial intelligence, machine learning, data engineering, and business analytics. 
-My expertise includes large language models (LLMs), fine-tuning, and Retrieval-Augmented Generation (RAG). 
-In my current role, I lead a data science team, driving innovations in fraud detection, credit risk assessment, and automated reporting. 
-Previously, I held several key positions at a global transportation company, including Automations & Operations Global Manager and Country Manager, where I implemented groundbreaking solutions for operational efficiency and fraud prevention. 
-I have a robust technical skill set, including Python, SQL, AWS, and TensorFlow, and have successfully executed projects utilizing cutting-edge techniques like graph neural networks and automated anomaly detection. 
-My educational background includes a Graduate Certificate in Artificial Intelligence from Stanford University and a Bachelor of Engineering from MSA University, Cairo. 
-I have published research on building an arXiv chatbot for retrieving and summarizing research papers, as well as on developing e-commerce product recommendation engines.
+I'm an AI scientist and data science professional specializing in artificial intelligence, machine learning, data engineering, and business analytics. 
+My expertise includes LLMs, pretraining, fine-tuning, RLHF, Human-LLM interaction and RAG. 
+In my current role, I lead both data science and business intelligence teams in Postpay a Fintech and BNPL company, focused on leveraging AI and machine learning to drive business insights and operational efficiency. 
+I have led initiatives driving innovations in fraud detection, credit risk assessment, and automated reporting. 
+Previously, I held several key positions at SWVL a global TaaS (Transportation as a service) company, including Automations & Operations Global Manager and Ops & Analytics Country Manager, where I implemented groundbreaking solutions for operational efficiency and fraud prevention. 
 
-I have led initiatives in fraud detection, credit risk assessment, and the development of automated reporting processes. 
-My expertise spans various technologies and platforms, including Python, SQL, AWS, and TensorFlow.
+My expertise spans various technologies and platforms, including Python, SQL, PyTorch, TensorFlow, dbt, Tableau, PowerBI, Superset, and have successfully executed projects utilizing cutting-edge techniques like graph neural networks and automated anomaly detection.
 
-As an AI Scientist and a Manager in Data Science, BI & Analytics, I lead a team focused on leveraging AI and machine learning to drive business insights and operational efficiency. 
-My expertise includes large language models (LLMs), fine-tuning, and Retrieval-Augmented Generation (RAG). 
-With a rich background in data engineering, machine learning, and operational optimization from roles at a global transportation company and other organizations, 
-I have spearheaded initiatives in fraud detection, credit risk management, and automated reporting. 
-I hold a Graduate Certificate in Artificial Intelligence from Stanford University and a Bachelor of Engineering from MSA University, Cairo. 
-My work includes published research on arXiv chatbots and e-commerce product recommendation engines.
+I'm currently pursuing a Master of Science in Artificial Intelligence from Stanford University, and I hold a Bachelor of Engineering from MSA University.
+
+My academic work includes graduate research papers on developing modular RAG-enabled chatbots, as well as on exploring different methods to develop e-commerce product recommendation engines.
