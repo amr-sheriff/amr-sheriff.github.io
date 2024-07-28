@@ -93,7 +93,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: cafWSz4AAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -245,6 +245,9 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/profiles.md
+  - _pages/teaching.md
+  - _pages/dropdown.md
 keep_files:
   - CNAME
   - .nojekyll

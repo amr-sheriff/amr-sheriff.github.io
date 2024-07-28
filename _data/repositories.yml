@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - amr-sheriff
+#  - alshedivat
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - amr-sheriff/arxiv-assistant
+  - amr-sheriff/BI-portal
