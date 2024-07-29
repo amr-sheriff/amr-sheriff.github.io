@@ -180,7 +180,7 @@
       "name": "arXivBot",
       "publisher": "",
       "releaseDate": "2024-06-10",
-      "url": "",
+      "url": "https://www.academia.edu/122435978/arXivBot",
       "summary": "The project goal is to build an arXiv chatbot capable of retrieving and selecting relevant research papers new or old according to a criteria specified by the user in natural language (ex. submission/revision date, domain/category, topic...etc). As well as answering users’ questions about the papers and being able to summarize & highlight key points of the paper topics. At the current accelerating speed of research and advances in various fields; every month, 20,000 new papers are posted to arxiv.org, including 9,000 papers in the Computer Science category, keeping up with the latest progress and advances has become tedious. This chatbot will help researchers and practitioners to keep up with the latest advances and up-to-date progress in different fields, by being able to search, retrieve, and summarize the new released papers in a streamlined approach. This study deploys multiple tech- niques to implement a lightweight yet efficient LLM system capable of achieving state-of-the-art results, including QLoRA quantization [1] and Parameter-Efficient Fine-Tuning (PEFT) instruction fine-tuning with LoRA, as well as incorporat- ing Function Calling, In-Context Learning & a Modular Retrieval Augmented Generation (RAG) process in the system [2]."
     },
     {
