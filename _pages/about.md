@@ -29,7 +29,7 @@ I'm an AI scientist and data science professional specializing in artificial int
 My expertise includes LLMs, pretraining, fine-tuning, RLHF, Human-LLM interaction and RAG. 
 In my current role, I lead both data science and business intelligence teams in Postpay a Fintech and BNPL company, focused on leveraging AI and machine learning to drive business insights and operational efficiency. 
 I have led initiatives driving innovations in fraud detection, credit risk assessment, and automated reporting. 
-Previously, I held several key positions at SWVL a global TaaS (Transportation as a service) company, including Automations & Operations Global Manager and Ops & Analytics Country Manager, where I implemented groundbreaking solutions for operational efficiency and fraud prevention. 
+Previously, I held several key positions at SWVL a global TaaS (Transportation as a service) company, including Analytics & Operations Regional Manager and Automations & Ops Country Manager, where I implemented groundbreaking solutions for operational efficiency and fraud prevention. 
 
 My expertise spans various technologies and platforms, including Python, SQL, PyTorch, TensorFlow, dbt, Tableau, PowerBI, Superset, and have successfully executed projects utilizing cutting-edge techniques like graph neural networks and automated anomaly detection.
 
