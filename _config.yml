@@ -167,7 +167,7 @@ disqus_shortname: Data Science Lounge # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+    rss_url: https://medium.com/feed/@amr.achraff
   - name: LinkedIn
     posts:
       - url: https://www.linkedin.com/posts/amrachraf_llm-langchain-chainlit-activity-7215409898719748096-dS54?utm_source=share&utm_medium=member_desktop
