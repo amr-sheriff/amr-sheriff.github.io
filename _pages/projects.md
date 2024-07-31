@@ -2,10 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: >
+  Explore a curated collection of my projects spanning work, research, academia, and personal initiatives. Each project reflects a blend of professional contributions, academic research, and personal innovations.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [research, personal, capstone, academic, work]
 horizontal: false
 ---
 
