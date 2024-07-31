@@ -130,8 +130,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Data Science Lounge # blog_name will be displayed in your blog page
+blog_description: A space to explore AI, Data Science, and Large Language Models through simple, insightful posts. Join me as I share practical tips and trends in this exciting field.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -159,7 +159,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: Data Science Lounge # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -168,10 +168,10 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
+  - name: LinkedIn
     posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+      - url: https://www.linkedin.com/posts/amrachraf_llm-langchain-chainlit-activity-7215409898719748096-dS54?utm_source=share&utm_medium=member_desktop
+        published_date: 2024-07-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
