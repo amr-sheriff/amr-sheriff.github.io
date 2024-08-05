@@ -6,7 +6,7 @@ description: >
   Explore a curated collection of my projects spanning work, research, academia, and personal initiatives. Each project reflects a blend of professional contributions, academic research, and personal innovations.
 nav: true
 nav_order: 3
-display_categories: [research, personal, capstone, academic, work]
+display_categories: [research, work, personal, capstone, academic]
 horizontal: false
 ---
 
