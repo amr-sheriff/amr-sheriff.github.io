@@ -14,7 +14,7 @@ The live dashboards can be accessed on [Tableau Public](https://public.tableau.c
 
 ---
 
-## GMV Dynamics 🎥
+## GMV Dynamics Example 📊
 
 This collection of Tableau reports provides interactive and dynamic dashboards designed to help businesses and analysts gain insights from data across various domains. From sales performance & trends to key metrics across categories and merchants, these dashboards offer a comprehensive view of data trends and patterns.
 
@@ -70,6 +70,64 @@ This collection of Tableau reports provides interactive and dynamic dashboards d
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+---
+
+## Non-Performing Loans Demonstration Report 📈
+
+This Tableau report provides a comprehensive view of non-performing loans across various regions and business segments. The report features interactive dashboards that allow users to explore and analyze data trends, patterns, and insights.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <div class='tableauPlaceholder' id='viz1723238133073' style='position: relative'>
+            <noscript>
+                <a href='#'>
+                    <img alt=' ' src='https://public.tableau.com/static/images/No/Non-performing-loans-report/DefaultRateperMaturity/1_rss.png' style='border: none' />
+                </a>
+            </noscript>
+            <object class='tableauViz' style='display:none;'>
+                <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                <param name='embed_code_version' value='3' />
+                <param name='site_root' value='' />
+                <param name='name' value='Non-performing-loans-report/DefaultRateperMaturity' />
+                <param name='tabs' value='yes' />
+                <param name='toolbar' value='yes' />
+                <param name='static_image' value='https://public.tableau.com/static/images/No/Non-performing-loans-report/DefaultRateperMaturity/1.png' />
+                <param name='animate_transition' value='yes' />
+                <param name='display_static_image' value='yes' />
+                <param name='display_spinner' value='yes' />
+                <param name='display_overlay' value='yes' />
+                <param name='display_count' value='yes' />
+                <param name='language' value='en-US' />
+            </object>
+        </div>
+    </div>
+</div>
+<div class="caption">
+    Non-Performing Loans Tableau Report. featuring default rates per maturity, regional distribution, and business segment analysis.
+</div>
+
+<script type='text/javascript'>
+    var divElement = document.getElementById('viz1723238133073');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    
+    if (divElement.offsetWidth > 800) {
+        vizElement.style.width = '1366px';
+        vizElement.style.height = '818px';
+    } else if (divElement.offsetWidth > 500) {
+        vizElement.style.width = '1366px';
+        vizElement.style.height = '818px';
+    } else {
+        vizElement.style.width = '100%';
+        vizElement.style.height = '1250px';
+    }
+    
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+---
 
 ## License 📜
 This project is licensed under the [Apache 2.0](https://github.com/amr-sheriff/arxiv-assistant/blob/main/LICENSE) license.
