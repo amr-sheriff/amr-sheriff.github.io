@@ -7,3 +7,5 @@ repo_description_lines_max: 3
 github_repos:
   - amr-sheriff/arxiv-assistant
   - amr-sheriff/BI-portal
+  - amr-sheriff/tableau-reports
+  - amr-sheriff/amr-sheriff.github.io
