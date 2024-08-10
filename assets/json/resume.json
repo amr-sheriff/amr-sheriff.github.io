@@ -19,6 +19,21 @@
         "network": "LinkedIn",
         "username": "amrachraf",
         "url": "https://www.linkedin.com/in/amrachraf"
+      },
+      {
+          "network": "Tableau Public",
+          "username": "amr.achraf",
+          "url": "https://public.tableau.com/app/profile/amr.achraf/vizzes"
+      },
+      {
+        "network": "Hugging Face",
+        "username": "amrachraf",
+        "url": "https://huggingface.co/amrachraf"
+      },
+      {
+          "network": "GitHub",
+          "username": "amr-sheriff",
+          "url": "https://github.com/amr-sheriff"
       }
     ]
   },

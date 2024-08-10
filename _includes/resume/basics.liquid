@@ -1,9 +1,9 @@
 <table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
-  {% assign skip_basics = 'image,profiles,location' | split: ',' %}
+  {% comment %}{% assign skip_basics = 'image,profiles,location' | split: ',' %}{% endcomment %}
+  {% assign skip_basics = 'image,location' | split: ',' %}
   {% for content in data[1] %}
     {%
-      if (content[1] == "") or (skip_basics contains
-      content[0])
+      if (content[1] == "") or (skip_basics contains content[0])
     %}
       {% continue %}
     {% endif %}
@@ -19,6 +19,14 @@
           <a href="mailto:{{ content[1] }}" target="_blank">{{ content[1] }}</a>
         {% elsif content[0] == 'phone' %}
           <a href="tel:{{ content[1] }}">{{ content[1] }}</a>
+        {% comment %}adding profiles to basics{% endcomment %}
+        {% elsif content[0] == 'profiles' %}
+            {% assign profiles = content[1] %}
+            {% for profile in profiles %}
+                <a href="{{ profile.url }}" target="_blank">{{ profile.network }}</a>
+                {% if forloop.last == false %}, {% endif %}
+            {% endfor %}
+        {% comment %}end profiles to basics{% endcomment %}
         {% else %}
           {{ content[1] }}
         {% endif %}
