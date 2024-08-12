@@ -25,7 +25,7 @@ social: true # includes social icons at the bottom of the page
 
 [//]: # (Link to your social media connections, too. This theme is set up to use [Font Awesome icons]&#40;https://fontawesome.com/&#41; and [Academicons]&#40;https://jpswalsh.github.io/academicons/&#41;, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
 
-I'm an AI scientist and data science professional specializing in artificial intelligence, machine learning, data engineering, and business analytics. 
+AI scientist and data science professional specializing in artificial intelligence, machine learning, data engineering, and business analytics. 
 My expertise includes LLMs, pretraining, fine-tuning, RLHF, Human-LLM interaction and RAG. 
 In my current role, I lead both data science and business intelligence teams in Postpay a Fintech and BNPL company, focused on leveraging AI and machine learning to drive business insights and operational efficiency. 
 I have led initiatives driving innovations in fraud detection, credit risk assessment, and automated reporting. 
