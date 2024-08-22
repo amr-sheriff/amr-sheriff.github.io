@@ -1,14 +1,29 @@
 <div class="repo p-2 text-center">
-  <a href="https://github.com/{{ include.username }}">
-    <img
-      class="repo-img-light w-100"
-      alt="{{ include.username }}"
-      src="https://github-readme-stats-neon-five-33.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_light }}&show_icons=true"
-    >
-    <img
-      class="repo-img-dark w-100"
-      alt="{{ include.username }}"
-      src="https://github-readme-stats-neon-five-33.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_dark }}&show_icons=true"
-    >
-  </a>
+  <div class="d-flex flex-wrap flex-md-nowrap flex-md-row flex-column justify-content-between align-items-center">
+  {% comment %}<div class="d-flex justify-content-between align-items-center">{% endcomment %}
+    <a href="https://github.com/{{ include.username }}" class="flex-fill m-1">
+      <img
+        class="repo-img-light w-100"
+        alt="{{ include.username }}"
+        src="https://github-readme-stats-neon-five-33.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_light }}&show_icons=true&number_format=long"
+      >
+      <img
+        class="repo-img-dark w-100"
+        alt="{{ include.username }}"
+        src="https://github-readme-stats-neon-five-33.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_dark }}&show_icons=true&number_format=long"
+      >
+    </a>
+    <a href="https://github.com/{{ include.username }}" class="flex-fill m-1">
+      <img
+        class="repo-img-light w-100"
+        alt="{{ include.username }}"
+        src="https://github-readme-stats-neon-five-33.vercel.app/api/top-langs?username={{ include.username }}&theme={{ site.repo_theme_light }}&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8"
+      >
+      <img
+        class="repo-img-dark w-100"
+        alt="{{ include.username }}"
+        src="https://github-readme-stats-neon-five-33.vercel.app/api/top-langs?username={{ include.username }}&theme={{ site.repo_theme_dark }}&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8"
+      >
+    </a>
+  </div>
 </div>
